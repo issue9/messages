@@ -1,11 +1,11 @@
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/issue9/assert/v5 v5.0.0 h1:Wii6hVeJGtYJwFzfvMbz6pxESV2pg2URvwkWoR0xSec=
-github.com/issue9/assert/v5 v5.0.0/go.mod h1:JqsxtACdhRx1QhpUzH/kweZQe3bmCNvYVJPgu0qDrM0=
-github.com/issue9/localeutil v0.34.0 h1:/AG0X7kM4frerbmapIcsOWnnKxUiZfIprxBT1aKg/Sg=
-github.com/issue9/localeutil v0.34.0/go.mod h1:H1anEuPs1Xpxenmfp9jE6Qr2J8x3AR38TIRjpDSm4ps=
-github.com/issue9/sliceutil v0.18.0 h1:QLBRl5wZEQYpueCuYd3QvNradzVaBSL/xGIMSNWR7cA=
-github.com/issue9/sliceutil v0.18.0/go.mod h1:trl6oQ2VvUgSV3jN7udd/GudxVa3XwUYxFaa0nhsiW4=
+github.com/issue9/assert/v6 v6.0.0 h1:3VlVjQcu4J/xij6g9qjyLH4rX3TiK9Mc0qNEN/9E7L0=
+github.com/issue9/assert/v6 v6.0.0/go.mod h1:DQzNg34S8ymyEVzHtPpujoKJBLiyWLUhiWZ5PafcwFc=
+github.com/issue9/localeutil v0.35.0 h1:eSZj8LNlo8ayK58OepeChGqdS2yTi7WepzT9KJSJyLA=
+github.com/issue9/localeutil v0.35.0/go.mod h1:uHQ7rA99ZQ4a4fJlxU+2hiC1XUSqYdKe6w/fak4/jjU=
+github.com/issue9/sliceutil v0.19.0 h1:A0fuEMzkfZHdEGPE0ko4Vs8d7hO4LEaf1FKUtE9jYoo=
+github.com/issue9/sliceutil v0.19.0/go.mod h1:jY9l6NUarYbIRTgnSEqb3ZbrhRwA77uGF3ouG/hXiYM=
 golang.org/x/mod v0.42.0 h1:ICeL3t2L30ljSPHHxDnR4fqVcBt/zR2zJAb9juavmQg=
 golang.org/x/mod v0.42.0/go.mod h1:u5fzIrRInkL8MaO1cbRkUHT64v303YIT5KEqpNr7jRs=
 golang.org/x/sync v0.24.0 h1:iqiDrGoDgyuvAKrhLQthUEzU/R378N78gXbBjxed7oA=

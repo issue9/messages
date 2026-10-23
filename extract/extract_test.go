@@ -9,7 +9,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/issue9/assert/v5"
+	"github.com/issue9/assert/v6"
 	"github.com/issue9/sliceutil"
 	"golang.org/x/text/language"
 
