@@ -2,6 +2,9 @@
 //
 // SPDX-License-Identifier: MIT
 
+//go:generate gomsgs extract -l=und -f=yaml ./
+//go:generate gomsgs update -src=./locales/und.yaml -dest=./locales/zh.yaml
+
 // Package messages 本地化信息的定义
 package messages
 

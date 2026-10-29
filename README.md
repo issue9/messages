@@ -6,16 +6,18 @@ messages
 ![Go version](https://img.shields.io/github/go-mod/go-version/issue9/messages)
 ======
 
-提供了本地化消息的序列化和提取，依赖于 <https://pkg.go.dev/golang.org/x/text>
+提供了本地化消息的序列化和提取
 
 - serialize 本地化消息的序列化
 - extract 本地化消息的提取
 
+[gomsg](https://github.com/ciaxw/gomsgs) 将当前包的内容打包成了一个二进制文件。
+可以直接在 go:generate 中使用。
 
 安装
 ----
 
-```shell
+```bash
 go get github.com/issue9/messages
 ```
 

@@ -1,21 +1,21 @@
 languages:
-    - und
+- und
 messages:
-    - key: can not covert to message at %s:%d
-      message:
-        msg: can not covert to message at %s:%d
-    - key: find new locale string %s at %s:%d
-      message:
-        msg: find new locale string %s at %s:%d
-    - key: has empty string at %s:%d
-      message:
-        msg: has empty string at %s:%d
-    - key: has same key %s at %s:%d, will be ignore
-      message:
-        msg: has same key %s at %s:%d, will be ignore
-    - key: not found unmarshal for %s
-      message:
-        msg: not found unmarshal for %s
-    - key: the key %s of %s not found, will be deleted
-      message:
-        msg: the key %s of %s not found, will be deleted
+- key: can not covert to message at %s:%d
+  message:
+    msg: can not covert to message at %s:%d
+- key: find new locale string %s at %s:%d
+  message:
+    msg: find new locale string %s at %s:%d
+- key: has empty string at %s:%d
+  message:
+    msg: has empty string at %s:%d
+- key: has same key %s at %s:%d, will be ignore
+  message:
+    msg: has same key %s at %s:%d, will be ignore
+- key: not found unmarshal for %s
+  message:
+    msg: not found unmarshal for %s
+- key: the key %s of %s not found, will be deleted
+  message:
+    msg: the key %s of %s not found, will be deleted
